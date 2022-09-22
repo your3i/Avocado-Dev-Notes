@@ -10,6 +10,8 @@
   * [\[SwiftUI\] Hide the label of Date Picker](ios/date/swiftui-hide-the-label-of-date-picker.md)
 * [List](ios/list/README.md)
   * [How to remove top padding of section header](ios/list/how-to-remove-top-padding-of-section-header.md)
+* [Text Input](ios/text-input/README.md)
+  * [How to set padding for UITextView](ios/text-input/how-to-set-padding-for-uitextview.md)
 * [Swift](ios/swift/README.md)
   * [Make enum conform to Identifiable](ios/swift/make-enum-conform-to-identifiable.md)
 
