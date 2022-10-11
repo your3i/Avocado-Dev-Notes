@@ -1,3 +1,7 @@
+---
+description: 'Ref: https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight'
+---
+
 # Common Weight Name mapping
 
 | Value | Common weight name        |

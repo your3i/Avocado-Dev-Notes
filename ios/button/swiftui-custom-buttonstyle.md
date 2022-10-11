@@ -1,6 +1,6 @@
 # \[SwiftUI] Custom ButtonStyle
 
-![](<../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/image.png)
 
 ```swift
 /**
